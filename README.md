@@ -2,18 +2,27 @@
 
 **Voice-activated personal safety assistance for Android.**
 
+> **Project links**
+> - 🌐 **Official website:** https://uttaravallirohith.github.io/SafeNow/
+> - 💻 **GitHub repository:** https://github.com/UTTARAVALLIROHITH/SafeNow
+> - 📦 **Releases / APK downloads:** https://github.com/UTTARAVALLIROHITH/SafeNow/releases
+> - 👤 **Developer:** [Uttaravalli Rohith](https://github.com/UTTARAVALLIROHITH)
+> - ✉️ **Contact:** urohith033@gmail.com
+
 SafeNow is presented as an Android safety app that helps a user alert a small trusted circle using an SOS button, emergency voice phrases, or a shake trigger.
 
 > **Important:** SafeNow is a personal safety assistance tool, not a replacement for local emergency services. SOS delivery depends on device permissions, Android background-execution rules, network connectivity, GPS availability, battery level, and the recipient's phone/service.
 
 ## Website and download
 
-- Official repository: https://github.com/UTTARAVALLIROHITH/SafeNow
-- Project contact listed on the supplied website: urohith033@gmail.com
-- Android package: `SafeNow.apk` (supplied package size: 19,055,488 bytes / about 18.2 MiB)
-- SHA-256: `ef32d208d9a6be581f57e91f08c197fb5af3966227eb338ea2efe3247d1d2877`
+- **Official website:** https://uttaravallirohith.github.io/SafeNow/
+- **Source code:** https://github.com/UTTARAVALLIROHITH/SafeNow
+- **Releases:** https://github.com/UTTARAVALLIROHITH/SafeNow/releases
+- **Project contact:** urohith033@gmail.com
+- **Android package:** `SafeNow.apk` (supplied package size: 19,055,488 bytes / about 18.2 MiB)
+- **SHA-256:** `ef32d208d9a6be581f57e91f08c197fb5af3966227eb338ea2efe3247d1d2877`
 
-The APK is present in the project archive supplied for this repository update. It has **not yet been uploaded to this GitHub repository**; do not treat the checksum above as proof that a GitHub-hosted download is available. Publish the APK as a repository asset or GitHub Release asset before advertising a download link here.
+The APK has **not yet been uploaded to a GitHub Release**. Do not treat the Releases link as proof that a downloadable APK is available until a release asset is published.
 
 ## Features described by the supplied SafeNow website
 
@@ -63,7 +72,7 @@ Before public release, document:
 
 ## Feedback and support
 
-Use the contact address listed on the official project website: **urohith033@gmail.com**.
+For project feedback and support, contact **urohith033@gmail.com**.
 
 Do not use feedback forms or GitHub issues to request emergency help.
 
@@ -73,7 +82,7 @@ The supplied archive contains:
 - `index.html` — the official single-page project website
 - `SafeNow.apk` — Android installation package
 
-The website and APK still need to be committed/published to this repository before this repository can serve as the complete distribution source.
+The website and APK must be committed/published to this repository before this repository becomes the complete distribution source.
 
 ---
 
