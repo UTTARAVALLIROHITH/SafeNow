@@ -70,6 +70,48 @@ Before public release, document:
 - A switched-off phone, depleted battery, unavailable network, or unavailable GPS can prevent an alert from being delivered.
 - Always contact your local emergency number directly when possible.
 
+## Screenshots
+
+### Main screen
+
+![SafeNow Main screen](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/MAiN.jpg)
+
+### Screenshot 1
+
+![SafeNow Screenshot 1](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/1.jpg)
+
+### Screenshot 2
+
+![SafeNow Screenshot 2](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/2.jpg)
+
+### Screenshot 3
+
+![SafeNow Screenshot 3](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/3.jpg)
+
+### Screenshot 4
+
+![SafeNow Screenshot 4](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/4.jpg)
+
+### Screenshot 5
+
+![SafeNow Screenshot 5](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/5.jpg)
+
+### Screenshot 6
+
+![SafeNow Screenshot 6](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/6.jpg)
+
+### Screenshot 7
+
+![SafeNow Screenshot 7](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/7.jpg)
+
+### Screenshot 9
+
+![SafeNow Screenshot 9](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/9.jpg)
+
+### Additional screen
+
+![SafeNow Additional screen](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/B.jpg)
+
 ## Feedback and support
 
 For project feedback and support, contact **urohith033@gmail.com**.
