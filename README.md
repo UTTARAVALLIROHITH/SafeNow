@@ -70,47 +70,15 @@ Before public release, document:
 - A switched-off phone, depleted battery, unavailable network, or unavailable GPS can prevent an alert from being delivered.
 - Always contact your local emergency number directly when possible.
 
-## Screenshots
+## App Screens
 
-### Main screen
-
-![SafeNow Main screen](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/MAiN.jpg)
-
-### Screenshot 1
-
-![SafeNow Screenshot 1](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/1.jpg)
-
-### Screenshot 2
-
-![SafeNow Screenshot 2](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/2.jpg)
-
-### Screenshot 3
-
-![SafeNow Screenshot 3](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/3.jpg)
-
-### Screenshot 4
-
-![SafeNow Screenshot 4](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/4.jpg)
-
-### Screenshot 5
-
-![SafeNow Screenshot 5](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/5.jpg)
-
-### Screenshot 6
-
-![SafeNow Screenshot 6](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/6.jpg)
-
-### Screenshot 7
-
-![SafeNow Screenshot 7](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/7.jpg)
-
-### Screenshot 9
-
-![SafeNow Screenshot 9](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/9.jpg)
-
-### Additional screen
-
-![SafeNow Additional screen](https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/B.jpg)
+<table>
+<tr><td align="center" valign="top" width="20%"><strong>Home Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/MAiN.jpg" width="150" alt="Home Screen"></td><td align="center" valign="top" width="20%"><strong>Welcome Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/1.jpg" width="150" alt="Welcome Screen"></td></tr>
+<tr><td align="center" valign="top" width="20%"><strong>Trusted Circle Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/2.jpg" width="150" alt="Trusted Circle Intro"></td><td align="center" valign="top" width="20%"><strong>Protection Setup</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/3.jpg" width="150" alt="Protection Setup"></td></tr>
+<tr><td align="center" valign="top" width="20%"><strong>Trigger Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/4.jpg" width="150" alt="Trigger Settings"></td><td align="center" valign="top" width="20%"><strong>Emergency Workflow Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/5.jpg" width="150" alt="Emergency Workflow Settings"></td></tr>
+<tr><td align="center" valign="top" width="20%"><strong>SOS History</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/6.jpg" width="150" alt="SOS History"></td><td align="center" valign="top" width="20%"><strong>Voice SOS Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/7.jpg" width="150" alt="Voice SOS Intro"></td></tr>
+<tr><td align="center" valign="top" width="20%"><strong>Emergency Contacts</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/9.jpg" width="150" alt="Emergency Contacts"></td><td align="center" valign="top" width="20%"><strong>Shake-to-Help Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/B.jpg" width="150" alt="Shake-to-Help Intro"></td></tr>
+</table>
 
 ## Feedback and support
 
