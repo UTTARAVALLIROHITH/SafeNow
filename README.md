@@ -1,0 +1,2 @@
+# SafeNow
+Official SafeNow website
