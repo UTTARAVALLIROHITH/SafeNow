@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "index.html"
+      - "safenow-official-site-v3/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -31,12 +31,12 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Verify website entry point
-        run: test -f index.html
+        run: test -f safenow-official-site-v3/index.html
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: safenow-official-site-v3
 
       - name: Deploy to GitHub Pages
         id: deployment
