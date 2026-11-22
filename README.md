@@ -72,12 +72,26 @@ Before public release, document:
 
 ## App Screens
 
+A quick visual tour of SafeNow's main screens and setup flow. Each image is kept compact, with its screen name and a short explanation.
+
 <table>
-<tr><td align="center" valign="top" width="20%"><strong>Home Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/MAiN.jpg" width="150" alt="Home Screen"></td><td align="center" valign="top" width="20%"><strong>Welcome Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/1.jpg" width="150" alt="Welcome Screen"></td></tr>
-<tr><td align="center" valign="top" width="20%"><strong>Trusted Circle Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/2.jpg" width="150" alt="Trusted Circle Intro"></td><td align="center" valign="top" width="20%"><strong>Protection Setup</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/3.jpg" width="150" alt="Protection Setup"></td></tr>
-<tr><td align="center" valign="top" width="20%"><strong>Trigger Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/4.jpg" width="150" alt="Trigger Settings"></td><td align="center" valign="top" width="20%"><strong>Emergency Workflow Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/5.jpg" width="150" alt="Emergency Workflow Settings"></td></tr>
-<tr><td align="center" valign="top" width="20%"><strong>SOS History</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/6.jpg" width="150" alt="SOS History"></td><td align="center" valign="top" width="20%"><strong>Voice SOS Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/7.jpg" width="150" alt="Voice SOS Intro"></td></tr>
-<tr><td align="center" valign="top" width="20%"><strong>Emergency Contacts</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/9.jpg" width="150" alt="Emergency Contacts"></td><td align="center" valign="top" width="20%"><strong>Shake-to-Help Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/B.jpg" width="150" alt="Shake-to-Help Intro"></td></tr>
+<tr>
+<td align="center" valign="top" width="25%"><strong>Home Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/MAiN.jpg" width="120" alt="SafeNow Home Screen"><br><sub>Main dashboard with the SOS control, protection status, location, trusted contacts, battery information, and navigation.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Welcome Screen</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/1.jpg" width="120" alt="Welcome Screen"><br><sub>Introduces SafeNow and welcomes the user to the personal safety setup experience.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Trusted Circle Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/2.jpg" width="120" alt="Trusted Circle Intro"><br><sub>Explains the trusted-circle concept for choosing people who can receive emergency alerts.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Protection Setup</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/3.jpg" width="120" alt="Protection Setup"><br><sub>Setup step that guides the user toward enabling the app's protection features and required access.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><strong>Trigger Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/4.jpg" width="120" alt="Trigger Settings"><br><sub>Settings for voice activation, shake trigger, emergency phrases, low-battery alerts, and SOS countdown.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Emergency Workflow Settings</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/5.jpg" width="120" alt="Emergency Workflow Settings"><br><sub>Shows additional emergency-response options, including the editable SMS template and permission review.</sub></td>
+<td align="center" valign="top" width="25%"><strong>SOS History</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/6.jpg" width="120" alt="SOS History"><br><sub>History page for reviewing previous SOS activity; the provided screen shows an empty history state.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Voice SOS Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/7.jpg" width="120" alt="Voice SOS Intro"><br><sub>Introduces the voice-triggered SOS option for activating help with an emergency phrase.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><strong>Emergency Contacts</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/9.jpg" width="120" alt="Emergency Contacts"><br><sub>Contact-management screen for adding and maintaining the people in the user's emergency circle.</sub></td>
+<td align="center" valign="top" width="25%"><strong>Shake-to-Help Intro</strong><br><img src="https://raw.githubusercontent.com/UTTARAVALLIROHITH/SafeNow/main/safenow-official-site-v3/ss/B.jpg" width="120" alt="Shake-to-Help Intro"><br><sub>Explains the shake gesture as an alternate way to trigger an SOS alert.</sub></td>
+<td colspan="2"></td>
+</tr>
 </table>
 
 ## Feedback and support
